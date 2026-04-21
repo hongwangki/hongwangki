@@ -1,12 +1,12 @@
 <div align="center">
 
-<picture>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=36&pause=1000&color=6EA8FF&center=true&vCenter=true&width=620&height=90&lines=Hi+there%2C+I'm+Wangki+%F0%9F%91%8B;Full-Stack+Developer;User-Centered+Thinker" alt="Typing SVG" />
-</picture>
-
-**사용자가 편리하고 이해하기 쉬운 서비스를 만드는 개발자입니다.**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6EA8FF&height=200&section=header&text=Hi%20there%2C%20I'm%20Wangki%20👋&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20User-Centered%20Thinker&descAlignY=58&descSize=16" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=AWS+%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C+%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98+%EC%84%A4%EA%B3%84+%EC%A4%91...;Java+%2B+Spring+Boot+%EB%B0%B1%EC%97%94%EB%93%9C+%EA%B0%9C%EB%B0%9C+%EC%A4%91...;Flutter+%ED%81%AC%EB%A1%9C%EC%8A%A4%ED%94%8C%EB%9E%AB%ED%8F%BC+%EB%8F%84%EC%A0%84+%EC%A4%91...;%EB%8D%94+%EB%82%98%EC%9D%80+UX%EB%A5%BC+%EC%9C%84%ED%95%B4+%EA%B3%A0%EB%AF%BC+%EC%A4%91..." alt="Typing SVG" />
+
+<br/>
+
+**사용자가 편리하고 이해하기 쉬운 서비스를 만드는 개발자입니다.**
 
 </div>
 
@@ -86,5 +86,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hongwangki/hongwangki/output/github-contribution-grid-snake.svg">
   <img alt="snake" src="https://raw.githubusercontent.com/hongwangki/hongwangki/output/github-contribution-grid-snake-dark.svg">
 </picture>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6EA8FF&height=100&section=footer" width="100%"/>
 
 </div>
