@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=36&pause=1000&color=6EA8FF&center=true&vCenter=true&width=620&height=90&lines=Hi+there%2C+I'm+Wangki+%F0%9F%91%8B;Full-Stack+Developer;User-Centered+Thinker" alt="Typing SVG" />
 </picture>
 
-<div style="border: 1px solid #30363d; border-radius: 12px; padding: 20px 40px; margin: 16px auto; display: inline-block;">
+<div style="border: 2px solid #6EA8FF; border-radius: 16px; padding: 24px 48px; margin: 16px auto; display: inline-block; background: linear-gradient(135deg, rgba(110,168,255,0.08) 0%, rgba(88,166,255,0.04) 100%); box-shadow: 0 0 20px rgba(110,168,255,0.15);">
 
 **사용자가 편리하고 이해하기 쉬운 서비스를 만드는 개발자입니다.**
 
@@ -60,6 +60,7 @@
 <a href="https://leejd8130.tistory.com/">
   <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white">
 </a>
+<img src="https://img.shields.io/badge/KakaoTalk-wg8130-FFCD00?style=for-the-badge&logo=kakaotalk&logoColor=000000">
 
 </div>
 
