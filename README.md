@@ -1,51 +1,52 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0B49B7,100:6EA8FF&text=Wangki%20GitHub&fontColor=ffffff&fontSize=42&fontAlignY=38&animation=fadeIn" />
 </div>
-
 <div align="center">
   <h2 style="border-bottom: 1px solid #2f3b52; color: #e6edf3;"> ✨ 사용자 중심 개발자 </h2>
   <div style="font-weight: 500; font-size: 15px; text-align: center; color: #c9d1d9;">
     더 편리하고 이해하기 쉬운 서비스를 만듭니다.
   </div>
 </div>
+<br>
 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=building+user-friendly+services+%E2%9C%A6;Java+%2B+Spring+Boot+%EB%B0%B1%EC%97%94%EB%93%9C+%EA%B0%9C%EB%B0%9C+%EC%A4%91...;Flutter+%EC%95%B1+%ED%81%AC%EB%A1%9C%EC%8A%A4%ED%94%8C%EB%9E%AB%ED%8F%BC+%EB%8F%84%EC%A0%84+%EC%A4%91...;AWS+%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C+%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98+%EC%84%A4%EA%B3%84+%EC%A4%91...;%EB%8D%94+%EB%82%98%EC%9D%80+UX%EB%A5%BC+%EC%9C%84%ED%95%B4+%EA%B3%A0%EB%AF%BC+%EC%A4%91...+%E2%9C%A6" alt="Typing SVG" />
+</div>
+<br>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/hongwangki/hongwangki/output/github-contribution-grid-snake-dark.svg" alt="snake" />
+</div>
 <br>
 
 <div align="center">
   <h2 style="border-bottom: 1px solid #2f3b52; color: #e6edf3;"> 🛠️ Tech Stacks </h2>
   <br>
   <div align="center">
-
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white">
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
   <br>
-
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
   <img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   <br>
-
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
   <br>
-
   <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white">
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
-
   </div>
 </div>
-
 <br>
-
 <div align="center">
   <h2 style="border-bottom: 1px solid #2f3b52; color: #e6edf3;"> 🧑‍💻 Contact Me </h2>
   <br>
@@ -56,9 +57,7 @@
     <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white">
   </a>
 </div>
-
 <br>
-
 <div align="center">
   <h2 style="border-bottom: 1px solid #2f3b52; color: #e6edf3;"> 🏅 Stats </h2>
   <div align="center">
@@ -71,22 +70,4 @@
       height="165"
     />
   </div>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Pretendard&weight=600&size=22&duration=2600&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=Better+UI%2C+Better+UX%2C+Better+Service.;Always+Building+for+Users." />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hongwangki&theme=github-compact&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:0B49B7,100:8CC8FF&section=footer" />
 </div>
