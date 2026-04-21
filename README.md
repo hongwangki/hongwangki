@@ -4,13 +4,19 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=36&pause=1000&color=6EA8FF&center=true&vCenter=true&width=620&height=90&lines=Hi+there%2C+I'm+Wangki+%F0%9F%91%8B;Full-Stack+Developer;User-Centered+Thinker" alt="Typing SVG" />
 </picture>
 
-<div style="border: 2px solid #6EA8FF; border-radius: 16px; padding: 24px 48px; margin: 16px auto; display: inline-block; background: linear-gradient(135deg, rgba(110,168,255,0.08) 0%, rgba(88,166,255,0.04) 100%); box-shadow: 0 0 20px rgba(110,168,255,0.15);">
+<br/>
+
+<table>
+<tr>
+<td align="center">
 
 **사용자가 편리하고 이해하기 쉬운 서비스를 만드는 개발자입니다.**
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=AWS+%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C+%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98+%EC%84%A4%EA%B3%84+%EC%A4%91...;Java+%2B+Spring+Boot+%EB%B0%B1%EC%97%94%EB%93%9C+%EA%B0%9C%EB%B0%9C+%EC%A4%91...;Flutter+%ED%81%AC%EB%A1%9C%EC%8A%A4%ED%94%8C%EB%9E%AB%ED%8F%BC+%EB%8F%84%EC%A0%84+%EC%A4%91...;%EB%8D%94+%EB%82%98%EC%9D%80+UX%EB%A5%BC+%EC%9C%84%ED%95%B4+%EA%B3%A0%EB%AF%BC+%EC%A4%91..." alt="Typing SVG" />
 
-</div>
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -60,7 +66,7 @@
 <a href="https://leejd8130.tistory.com/">
   <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white">
 </a>
-<img src="https://img.shields.io/badge/KakaoTalk-wg8130-FFCD00?style=for-the-badge&logo=kakaotalk&logoColor=000000">
+<img src="https://img.shields.io/badge/KakaoTalk-wg8130-FFE812?style=for-the-badge&logo=kakaotalk&logoColor=000000">
 
 </div>
 
