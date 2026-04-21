@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="./corner.svg" width="800"/>
-
 <picture>
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=36&pause=1000&color=6EA8FF&center=true&vCenter=true&width=620&height=90&lines=Hi+there%2C+I'm+Wangki+%F0%9F%91%8B;Full-Stack+Developer;User-Centered+Thinker" alt="Typing SVG" />
 </picture>
