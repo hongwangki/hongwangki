@@ -1,21 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0B49B7,100:6EA8FF&text=Wangki%20GitHub&fontColor=ffffff&fontSize=42&fontAlignY=38&animation=fadeIn" />
-</div>
-<div align="center">
-  <h2 style="border-bottom: 1px solid #2f3b52; color: #e6edf3;"> ✨ 사용자 중심 개발자 </h2>
-  <div style="font-weight: 500; font-size: 15px; text-align: center; color: #c9d1d9;">
-    더 편리하고 이해하기 쉬운 서비스를 만듭니다.
-  </div>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0B49B7,50:3a7bd5,100:6EA8FF&text=Wangki%20GitHub&desc=%EC%82%AC%EC%9A%A9%EC%9E%90%20%EC%A4%91%EC%8B%AC%20%EA%B0%9C%EB%B0%9C%EC%9E%90&fontColor=ffffff&fontSize=42&fontAlignY=50&descAlignY=72&descColor=ffffff&animation=twinkling" />
 </div>
 <br>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=building+user-friendly+services+%E2%9C%A6;Java+%2B+Spring+Boot+%EB%B0%B1%EC%97%94%EB%93%9C+%EA%B0%9C%EB%B0%9C+%EC%A4%91...;Flutter+%EC%95%B1+%ED%81%AC%EB%A1%9C%EC%8A%A4%ED%94%8C%EB%9E%AB%ED%8F%BC+%EB%8F%84%EC%A0%84+%EC%A4%91...;AWS+%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C+%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98+%EC%84%A4%EA%B3%84+%EC%A4%91...;%EB%8D%94+%EB%82%98%EC%9D%80+UX%EB%A5%BC+%EC%9C%84%ED%95%B4+%EA%B3%A0%EB%AF%BC+%EC%A4%91...+%E2%9C%A6" alt="Typing SVG" />
-</div>
-<br>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/hongwangki/hongwangki/output/github-contribution-grid-snake-dark.svg" alt="snake" />
 </div>
 <br>
 
@@ -47,6 +36,7 @@
   </div>
 </div>
 <br>
+
 <div align="center">
   <h2 style="border-bottom: 1px solid #2f3b52; color: #e6edf3;"> 🧑‍💻 Contact Me </h2>
   <br>
@@ -58,6 +48,7 @@
   </a>
 </div>
 <br>
+
 <div align="center">
   <h2 style="border-bottom: 1px solid #2f3b52; color: #e6edf3;"> 🏅 Stats </h2>
   <div align="center">
@@ -70,4 +61,15 @@
       height="165"
     />
   </div>
+</div>
+<br>
+
+<div align="center">
+  <h2 style="border-bottom: 1px solid #2f3b52; color: #e6edf3;"> 🐍 Contribution Snake </h2>
+  <br>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hongwangki/hongwangki/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hongwangki/hongwangki/output/github-contribution-grid-snake.svg">
+    <img alt="snake" src="https://raw.githubusercontent.com/hongwangki/hongwangki/output/github-contribution-grid-snake-dark.svg">
+  </picture>
 </div>
