@@ -72,3 +72,21 @@
     />
   </div>
 </div>
+
+<br>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Pretendard&weight=600&size=22&duration=2600&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=Better+UI%2C+Better+UX%2C+Better+Service.;Always+Building+for+Users." />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hongwangki&theme=github-compact&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:0B49B7,100:8CC8FF&section=footer" />
+</div>
