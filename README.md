@@ -64,18 +64,6 @@
 
 <div align="center">
 
-### 🏅 Stats
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=hongwangki&show_icons=true&theme=transparent&title_color=6EA8FF&text_color=ffffff&icon_color=58A6FF&border_color=30363d" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hongwangki&layout=compact&theme=transparent&title_color=6EA8FF&text_color=ffffff&border_color=30363d" height="165" />
-
-</div>
-
----
-
-<div align="center">
 
 ### 🐍 Contribution Snake
 
